@@ -15,10 +15,10 @@ from datetime import datetime
 import requests
 
 # Конфигурация - ЗАМЕНИ ЭТИ ДАННЫЕ!
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Получи у @BotFather
-ADMIN_IDS = [123456789]  # Твой ID в Telegram
-API_ID = 123456  # Получи на my.telegram.org
-API_HASH = "your_api_hash_here"  # Получи на my.telegram.org
+BOT_TOKEN = "8546210921:AAEZkGZhgFlvizXPcB8un7S-5HU7WjqQoLI"  # Получи у @BotFather
+ADMIN_IDS = [6447903143]  # Твой ID в Telegram
+API_ID = 30887575  # Получи на my.telegram.org
+API_HASH = "505247fc541216e485c879fd8508bc5b"  # Получи на my.telegram.org
 
 app = Flask(__name__)
 app.secret_key = 'your-secret-key-12345'
